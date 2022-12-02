@@ -64,7 +64,7 @@ public class Abc {
 				break;
 			}
 		}
-		if(b ==0) {
+		if(b == 0) {
 			System.out.println("해당 핸드폰이 없습니다.");
 		}
 		
